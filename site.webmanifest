@@ -1,0 +1,16 @@
+{
+  "name": "The Workout Gym, Hisar",
+  "short_name": "The Workout",
+  "description": "Gym in Sector 15, Hisar — strength, cardio and functional training with coaches on the floor. Open Mon–Sat, 5:00 AM – 10:00 PM.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

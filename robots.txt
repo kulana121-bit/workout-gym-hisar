@@ -1,0 +1,9 @@
+# The Workout Gym, Hisar — robots.txt
+#
+# The sitemap line stays commented out until tools/set-domain.mjs has been run
+# with the live domain, because a sitemap must contain absolute URLs.
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Sitemap: https://your-domain.example/sitemap.xml
